@@ -5,34 +5,6 @@
     "children": [
       {
         "type": "link",
-        "addDate": 1655198018000,
-        "title": "知识库--ShowDoc",
-        "icon": "https://logo.clearbit.com/10.100.41.51",
-        "url": "http://10.100.41.51:811/showdoc-master/web/?#/11?page_id=291"
-      },
-      {
-        "type": "link",
-        "addDate": 1720688177498,
-        "title": "TCIS4.0 前端源码地址",
-        "icon": "https://logo.clearbit.com/lab.mingqijia.com",
-        "url": "http://lab.mingqijia.com/zhuorui/Stech-web4"
-      },
-      {
-        "type": "link",
-        "addDate": 1720688190986,
-        "title": "TCIS4.0 后端源码地址",
-        "icon": "https://logo.clearbit.com/10.100.150.174",
-        "url": "http://10.100.150.174/root/tcis-phoenix"
-      },
-      {
-        "type": "link",
-        "addDate": 1720688202129,
-        "title": "TCIS4.0 APP源码地址",
-        "icon": "https://logo.clearbit.com/lab.mingqijia.com",
-        "url": "http://lab.mingqijia.com/zhuorui/gas_assistant"
-      },
-      {
-        "type": "link",
         "addDate": 1657008120000,
         "title": "npmmirror 中国镜像站",
         "icon": "https://logo.clearbit.com/npmmirror.com",
@@ -65,20 +37,6 @@
         "title": "精易论坛——程序设计学习交流技术论坛",
         "icon": "https://logo.clearbit.com/bbs.125.la",
         "url": "https://bbs.125.la/forum.php?page=1&tid=14622592&mobile=no"
-      },
-      {
-        "type": "link",
-        "addDate": 1659498370000,
-        "title": "(42封未读邮件)易为软件-邮箱",
-        "icon": "https://logo.clearbit.com/qiye.aliyun.com",
-        "url": "https://qiye.aliyun.com/alimail/#h=WyJmbV8yIixbIjIiLCIiLHsiZklkIjoiMSJ9LHsibGFiZWwiOiLpgq7ku7YifV1d"
-      },
-      {
-        "type": "link",
-        "addDate": 1660117905000,
-        "title": "移动CRM-Bug - 禅道",
-        "icon": "https://logo.clearbit.com/120.76.141.121",
-        "url": "http://120.76.141.121:188/zentao/bug-browse-8.html?tid=dqo7unjm"
       },
       {
         "type": "link",
@@ -142,13 +100,6 @@
         "title": "Releases · yansongda/pay · GitHub",
         "icon": "https://logo.clearbit.com/github.com",
         "url": "https://github.com/yansongda/pay/releases?page=8"
-      },
-      {
-        "type": "link",
-        "addDate": 1680243661000,
-        "title": "全国计算机技术与软件专业技术资格（水平）考试",
-        "icon": "https://logo.clearbit.com/bm.ruankao.org.cn",
-        "url": "https://bm.ruankao.org.cn/report/cost"
       },
       {
         "type": "link",
@@ -244,7 +195,7 @@
       {
         "type": "folder",
         "addDate": 1720489271021,
-        "title": "已导入",
+        "title": "share-1",
         "children": [
           {
             "type": "link",
@@ -804,7 +755,7 @@
       {
         "type": "folder",
         "addDate": 1720489271028,
-        "title": "已导入 (1)",
+        "title": "share-2)",
         "children": [
           {
             "type": "link",
